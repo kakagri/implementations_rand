@@ -5,5 +5,5 @@ So far there's code for :
 
 - **Best of call option** 
 - **Asian call option**
-- **Basket call option ** 
+- **Basket call option** 
 - **call put prices in black scholes**
