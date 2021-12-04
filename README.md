@@ -1,1 +1,1 @@
-## Using this public github to highlight some quick python and c++ code 
+#### Hi there ! This is a public repo for some very basic coding projects that I'm doing, mostly implementations of things I've seen in class. Hopefully this is useful to somebody and for me it is just a very basic showcase of what I do 
